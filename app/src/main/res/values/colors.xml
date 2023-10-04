@@ -12,5 +12,8 @@
     <color name="YrkiyRed">#d60f38</color>
     <color name="ButtonBlack">#353535</color>
     <color name="BorderBlack">#353535</color>
+    <color name="GradientRed">#BC1131</color>
+    <color name="GradientBlack">#080808</color>
+    <color name="GreyButton">#363435</color>
 
 </resources>
